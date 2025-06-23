@@ -87,7 +87,7 @@ A modern auction platform with voice-powered bidding capabilities built with Dja
 
 Watch how BoliBazaar works:
 
-![Demo Video](Screen%20Recording%202025-06-22%20195305.mp4)
+![Demo Video](https://www.youtube.com/watch?v=3xPr7sl13hc)
 
 ## 📱 User Guide
 
