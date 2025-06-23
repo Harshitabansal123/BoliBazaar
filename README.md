@@ -83,6 +83,12 @@ A modern auction platform with voice-powered bidding capabilities built with Dja
 3. Speak clearly in English
 4. The system will process your command and respond
 
+## 🎥 Demo
+
+Watch how BoliBazaar works:
+
+![Demo Video](Screen%20Recording%202025-06-22%20195305.mp4)
+
 ## 📱 User Guide
 
 ### For Regular Users
